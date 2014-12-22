@@ -1,0 +1,8 @@
+digraph "statismo::SpatiallyVaryingKernel&lt; T &gt;"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="{statismo::SpatiallyVarying\lKernel\< T \>\n||+ SpatiallyVaryingKernel()\l+ operator()()\l+ ~SpatiallyVaryingKernel()\l+ GetKernelInfo()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node2 [label="{statismo::MatrixValuedKernel\l\< Representer\< T \>::PointType \>\n|# m_dimension\l|+ MatrixValuedKernel()\l+ operator()()\l+ GetDimension()\l+ ~MatrixValuedKernel()\l+ GetKernelInfo()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1MatrixValuedKernel.html"];
+}

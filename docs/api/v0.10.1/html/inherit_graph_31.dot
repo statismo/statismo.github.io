@@ -1,0 +1,11 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="statismo::ScalarValuedKernel\l\< TPoint \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1ScalarValuedKernel.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="GaussianKernel\< TPoint \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classGaussianKernel.html"];
+  Node3 [label="statismo::ScalarValuedKernel\l\< vtkPoint \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1ScalarValuedKernel.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+}

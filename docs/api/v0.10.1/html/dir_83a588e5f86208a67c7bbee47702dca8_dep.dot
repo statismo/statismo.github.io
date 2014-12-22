@@ -1,0 +1,9 @@
+digraph "examples" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans.ttf"];
+  edge [ labelfontsize="10", labelfontname="FreeSans.ttf"];
+  subgraph clusterdir_fd8eb59f6b93dc9aa83524dd762c238e {
+    graph [ bgcolor="#ddddee", pencolor="black", label="VTK" fontname="FreeSans.ttf", fontsize="10", URL="dir_fd8eb59f6b93dc9aa83524dd762c238e.html"]
+  dir_83a588e5f86208a67c7bbee47702dca8 [shape=box, label="examples", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_83a588e5f86208a67c7bbee47702dca8.html"];
+  }
+}

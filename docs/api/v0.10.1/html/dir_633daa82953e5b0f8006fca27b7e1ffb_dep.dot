@@ -1,0 +1,15 @@
+digraph "ITK" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans.ttf"];
+  edge [ labelfontsize="10", labelfontname="FreeSans.ttf"];
+  subgraph clusterdir_e05d7e2b1ecd646af5bb94391405f3b5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="modules" fontname="FreeSans.ttf", fontsize="10", URL="dir_e05d7e2b1ecd646af5bb94391405f3b5.html"]
+  subgraph clusterdir_633daa82953e5b0f8006fca27b7e1ffb {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_633daa82953e5b0f8006fca27b7e1ffb.html"];
+    dir_633daa82953e5b0f8006fca27b7e1ffb [shape=plaintext label="ITK"];
+    dir_e491609c30e075ca61a98f0639246799 [shape=box label="examples" color="black" fillcolor="white" style="filled" URL="dir_e491609c30e075ca61a98f0639246799.html"];
+    dir_7f14e3791c5e995480d3473f6c8e038c [shape=box label="include" color="black" fillcolor="white" style="filled" URL="dir_7f14e3791c5e995480d3473f6c8e038c.html"];
+    dir_b5805391b592c320e472ccac8bed9a09 [shape=box label="tests" color="black" fillcolor="white" style="filled" URL="dir_b5805391b592c320e472ccac8bed9a09.html"];
+  }
+  }
+}

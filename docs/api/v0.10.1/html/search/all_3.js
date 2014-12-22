@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['datamanager',['DataManager',['../classitk_1_1DataManager.html',1,'itk']]],
+  ['datamanager',['DataManager',['../classstatismo_1_1DataManager.html',1,'statismo']]],
+  ['datamanager_3c_20representer_20_3e',['DataManager&lt; Representer &gt;',['../classstatismo_1_1DataManager.html',1,'statismo']]],
+  ['datamanagerwithsurrogates',['DataManagerWithSurrogates',['../classitk_1_1DataManagerWithSurrogates.html',1,'itk']]],
+  ['datamanagerwithsurrogates',['DataManagerWithSurrogates',['../classstatismo_1_1DataManagerWithSurrogates.html',1,'statismo']]],
+  ['datasetpointertype',['DatasetPointerType',['../classvtkUnstructuredGridRepresenter.html#a9747e99f3b23713ab84faf539de8abab',1,'vtkUnstructuredGridRepresenter']]],
+  ['datasettosample',['DatasetToSample',['../classstatismo_1_1StatisticalModel.html#ac849853a58586a6a7754d8d0c7b13e1e',1,'statismo::StatisticalModel::DatasetToSample()'],['../classitk_1_1StandardMeshRepresenter.html#a6ea4fd13199aad37f72f5239df31cd02',1,'itk::StandardMeshRepresenter::DatasetToSample()']]],
+  ['datasettype',['DatasetType',['../classitk_1_1StandardMeshRepresenter.html#a4c78e13915bd21964f1003c14ae595ac',1,'itk::StandardMeshRepresenter']]],
+  ['delete',['Delete',['../classstatismo_1_1ConditionalModelBuilder.html#ae11896ccf86bb0714e64c1d36f486956',1,'statismo::ConditionalModelBuilder::Delete()'],['../classstatismo_1_1DataManager.html#a5713d55af5f6192eea6da512036c0f6f',1,'statismo::DataManager::Delete()'],['../classstatismo_1_1LowRankGPModelBuilder.html#a4a6c87e86fc2bc10f2a392921d02107a',1,'statismo::LowRankGPModelBuilder::Delete()'],['../classstatismo_1_1PCAModelBuilder.html#a24620e2fd6a5d0db665932ead2719fc2',1,'statismo::PCAModelBuilder::Delete()'],['../classstatismo_1_1PosteriorModelBuilder.html#a9f200b06bf23bf9de97f9abff991880f',1,'statismo::PosteriorModelBuilder::Delete()'],['../classstatismo_1_1ReducedVarianceModelBuilder.html#a73b2b1f0f0941a10575c00f786d0cb1c',1,'statismo::ReducedVarianceModelBuilder::Delete()'],['../classstatismo_1_1StatisticalModel.html#ab7e4f677a1d1dfa103bbc2614ee79da3',1,'statismo::StatisticalModel::Delete()']]],
+  ['domain',['Domain',['../classstatismo_1_1Domain.html#acd53a7241bcb14b5f184454d6061a596',1,'statismo::Domain::Domain()'],['../classstatismo_1_1Domain.html#a9ef21ede1eaeee2ce858144b423f2dd9',1,'statismo::Domain::Domain(const DomainPointsListType &amp;domainPoints)']]],
+  ['domain',['Domain',['../classstatismo_1_1Domain.html',1,'statismo']]],
+  ['drawmean',['DrawMean',['../classstatismo_1_1StatisticalModel.html#a8a848d71ef696548652e772a16d315a3',1,'statismo::StatisticalModel']]],
+  ['drawmeanatpoint',['DrawMeanAtPoint',['../classstatismo_1_1StatisticalModel.html#af84bd3fc7ab5009032d19ae66bd7547e',1,'statismo::StatisticalModel::DrawMeanAtPoint(const PointType &amp;point) const '],['../classstatismo_1_1StatisticalModel.html#ac7906e24dfebd0503d15b323a7df504e',1,'statismo::StatisticalModel::DrawMeanAtPoint(unsigned pointId) const ']]],
+  ['drawpcabasissample',['DrawPCABasisSample',['../classstatismo_1_1StatisticalModel.html#ae4b6286a74e2f709f4547f8b6db50e42',1,'statismo::StatisticalModel']]],
+  ['drawsample',['DrawSample',['../classstatismo_1_1StatisticalModel.html#ad5fe04e0abe654fc0302a2090c47d06a',1,'statismo::StatisticalModel::DrawSample(const VectorType &amp;coefficients, bool addNoise=false) const '],['../classstatismo_1_1StatisticalModel.html#a7d1014ac1f751cc5d3bf867b69f8078b',1,'statismo::StatisticalModel::DrawSample(bool addNoise=false) const ']]],
+  ['drawsampleatpoint',['DrawSampleAtPoint',['../classstatismo_1_1StatisticalModel.html#ab97b014e92d1593ce946317a655fe90c',1,'statismo::StatisticalModel::DrawSampleAtPoint(const VectorType &amp;coefficients, const PointType &amp;point, bool addNoise=false) const '],['../classstatismo_1_1StatisticalModel.html#a52138e75fd29c2eab256b3ab6c923959',1,'statismo::StatisticalModel::DrawSampleAtPoint(const VectorType &amp;coefficients, unsigned pointId, bool addNoise=false) const ']]],
+  ['drawsamplevector',['DrawSampleVector',['../classstatismo_1_1StatisticalModel.html#acedd97f8b75e26946bcf602a56110736',1,'statismo::StatisticalModel']]],
+  ['dumpfiletohdf5',['dumpFileToHDF5',['../classstatismo_1_1HDF5Utils.html#a3585c71fc92baf07dc5ed9771fc8a0e0',1,'statismo::HDF5Utils']]]
+];

@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="statismo::StatisticalModel\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1StatisticalModel.html",tooltip="A Point/Value pair that is used to specify a value at a given point. "];
+}

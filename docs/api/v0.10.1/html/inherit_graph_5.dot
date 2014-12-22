@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="itk::PosteriorModelBuilder\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classitk_1_1PosteriorModelBuilder.html",tooltip="ITK Wrapper for the statismo::PosteriorModelBuilder class. "];
+}

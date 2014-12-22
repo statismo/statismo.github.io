@@ -1,0 +1,9 @@
+digraph "statismoTests" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans.ttf"];
+  edge [ labelfontsize="10", labelfontname="FreeSans.ttf"];
+  subgraph clusterdir_366e0ead4dac2034093a34b67ec0f7e8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="tests" fontname="FreeSans.ttf", fontsize="10", URL="dir_366e0ead4dac2034093a34b67ec0f7e8.html"]
+  dir_821429dea7a3e1477ae5311a4b4a69fc [shape=box, label="statismoTests", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_821429dea7a3e1477ae5311a4b4a69fc.html"];
+  }
+}

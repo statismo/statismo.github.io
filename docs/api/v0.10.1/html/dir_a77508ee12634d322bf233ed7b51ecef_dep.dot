@@ -1,0 +1,9 @@
+digraph "include" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans.ttf"];
+  edge [ labelfontsize="10", labelfontname="FreeSans.ttf"];
+  subgraph clusterdir_fd8eb59f6b93dc9aa83524dd762c238e {
+    graph [ bgcolor="#ddddee", pencolor="black", label="VTK" fontname="FreeSans.ttf", fontsize="10", URL="dir_fd8eb59f6b93dc9aa83524dd762c238e.html"]
+  dir_a77508ee12634d322bf233ed7b51ecef [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_a77508ee12634d322bf233ed7b51ecef.html"];
+  }
+}

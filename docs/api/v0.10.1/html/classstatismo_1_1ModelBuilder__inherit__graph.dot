@@ -1,0 +1,14 @@
+digraph "statismo::ModelBuilder&lt; T &gt;"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="{statismo::ModelBuilder\< T \>\n|+ TOLERANCE\l|# ComputeScores()\l# ModelBuilder()\l# CollectModelInfo()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node2 [label="{statismo::ConditionalModel\lBuilder\< T \>\n||+ Delete()\l+ BuildNewModel()\l+ Create()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1ConditionalModelBuilder.html",tooltip="Creates a StatisticalModel conditioned on some external data. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node3 [label="{statismo::LowRankGPModel\lBuilder\< T \>\n||+ Delete()\l+ ~LowRankGPModelBuilder()\l+ BuildNewZeroMeanModel()\l+ BuildNewModel()\l+ Create()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1LowRankGPModelBuilder.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node4 [label="{statismo::PCAModelBuilder\< T \>\n||+ Delete()\l+ ~PCAModelBuilder()\l+ BuildNewModel()\l+ Create()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1PCAModelBuilder.html",tooltip="Creates StatisticalModel using Principal Component Analysis. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node5 [label="{statismo::PosteriorModel\lBuilder\< T \>\n||+ Delete()\l+ ~PosteriorModelBuilder()\l+ BuildNewModel()\l+ BuildNewModel()\l+ BuildNewModelFromModel()\l+ BuildNewModelFromModel()\l+ TrivialPointValueWithCovariance\lListWithUniformNoise()\l+ Create()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1PosteriorModelBuilder.html",tooltip="Given a statistical model (prior) and a set of point constraints (likelihood), generate a new PCA mod..."];
+}

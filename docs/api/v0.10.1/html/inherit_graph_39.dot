@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="statismo::vtkPoint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1vtkPoint.html",tooltip="Helper class that represents a vtkPoint. In vtk a point is just of type T*. The statismo library reli..."];
+}

@@ -1,0 +1,8 @@
+digraph "statismo::DataManagerWithSurrogates&lt; T &gt;"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="{statismo::DataManagerWith\lSurrogates\< T \>\n|# m_typeInfo\l|+ ~DataManagerWithSurrogates()\l+ AddDatasetWithSurrogates()\l+ GetSurrogateTypes()\l+ GetSurrogateTypeFilename()\l+ GetSurrogateTypeInfo()\l+ Create()\l# LoadSurrogateTypes()\l# DataManagerWithSurrogates()\l# DataManagerWithSurrogates()\l# operator=()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node2 [label="{statismo::DataManager\< T \>\n|# m_representer\l# m_DataItemList\l|+ Delete()\l+ ~DataManager()\l+ AddDataset()\l+ Save()\l+ GetData()\l+ GetNumberOfSamples()\l+ GetCrossValidationFolds()\l+ GetLeaveOneOutCrossValidation\lFolds()\l+ Create()\l+ Load()\l# DataManager()\l# DataManager()\l# operator=()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatismo_1_1DataManager.html",tooltip="Manages Training and Test Data for building Statistical Models and provides functionality for Crossva..."];
+}

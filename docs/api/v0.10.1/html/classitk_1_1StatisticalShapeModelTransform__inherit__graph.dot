@@ -1,0 +1,8 @@
+digraph "itk::StatisticalShapeModelTransform&lt; TRepresenter, TScalarType, TDimension &gt;"
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="{itk::StatisticalShapeModel\lTransform\< TRepresenter,\l TScalarType, TDimension \>\n||+ itkSimpleNewMacro()\l+ itkTypeMacro()\l+ CreateAnother()\l+ TransformPoint()\l+ StatisticalShapeModelTransform()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="FreeSans.ttf"];
+  Node2 [label="{itk::StatisticalModelTransform\lBase\< TRepresenter, TScalarType,\l TDimension \>\n|# m_StatisticalModel\l# m_coeff_vector\l# m_usedNumberCoefficients\l# m_FixedParameters\l|+ CopyBaseMembers()\l+ itkTypeMacro()\l+ itkStaticConstMacro()\l+ itkStaticConstMacro()\l+ itkStaticConstMacro()\l+ ComputeJacobianWithRespect\lToParameters()\l+ TransformPoint()\l+ SetIdentity()\l+ SetParameters()\l+ GetParameters()\land 8 more...\l# StatisticalModelTransformBase()\l# StatisticalModelTransformBase()\l# ~StatisticalModelTransformBase()\l# PrintSelf()\l# operator=()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classitk_1_1StatisticalModelTransformBase.html"];
+}
